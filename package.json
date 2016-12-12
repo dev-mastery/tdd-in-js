@@ -2,6 +2,7 @@
   "name": "tdd",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/dev-mastery/tdd-in-js",
   "author": "Bill Sourour <bill@devmastery.com>",
   "license": "MIT",
   "devDependencies": {
