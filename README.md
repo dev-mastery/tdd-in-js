@@ -8,14 +8,14 @@ Using [Yarn][039e9176]:
 
   [039e9176]: https://yarnpkg.com "Yarn"
 
-    $ git clone
-    $ cd tdd
+    $ git clone https://github.com/dev-mastery/tdd-in-js.git
+    $ cd tdd-in-js
     $ yarn
 
 Using NPM:
 
-    $ git clone
-    $ cd tdd
+    $ git clone https://github.com/dev-mastery/tdd-in-js.git
+    $ cd tdd-in-js
     $ npm install
 
 ## Run
