@@ -6,8 +6,8 @@ Source files for the course [TDD in JavaScript by Dev Mastery][7c368f77]
 ## Set-up
 Using NPM:
 
-    $ git clone https://github.com/dev-mastery/tdd-in-js.git
-    $ cd tdd-in-js
+    $ git clone https://github.com/dev-mastery/tdd-in-js.git tdd
+    $ cd tdd
     $ npm install
 
 ## Run Tests
