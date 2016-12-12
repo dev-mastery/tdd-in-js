@@ -14,6 +14,6 @@
   },
   "scripts": {
     "test": "mocha --compilers js:babel-register --require babel-polyfill **/*.spec.js",
-    "test:watch": "yarn test -- -w"
+    "test:watch": "npm test -- -w"
   }
 }
